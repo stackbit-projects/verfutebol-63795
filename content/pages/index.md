@@ -24,22 +24,6 @@ sections:
   - type: grid_section
     title: Subscribe
     grid_items:
-      - title: Spotify
-        title_align: center
-        content_align: center
-        actions:
-          - label: Subscribe
-            url: /thank-you
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
-        image: images/icon-2.svg
-        image_alt: Spotify icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
       - title: Overcast
         title_align: center
         content_align: center
