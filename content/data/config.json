@@ -11,13 +11,7 @@
         "logo": "images/logo.svg",
         "logo_alt": "Podcaster logo",
         "has_primary_nav": true,
-        "primary_nav_links": [
-            {
-                "label": "Episodes",
-                "url": "/episodes",
-                "style": "link"
-            }
-        ],
+        "primary_nav_links": [],
         "has_secondary_nav": true,
         "secondary_nav_links": []
     },
