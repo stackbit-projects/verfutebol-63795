@@ -19,13 +19,7 @@
             }
         ],
         "has_secondary_nav": true,
-        "secondary_nav_links": [
-            {
-                "label": "Subscribe",
-                "url": "/subscribe",
-                "style": "primary"
-            }
-        ]
+        "secondary_nav_links": []
     },
     "footer": {
         "logo": "images/logo.svg",
