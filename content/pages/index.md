@@ -1,27 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    title: Welcome to DIYJam Podcast
-    subtitle: Optional hero section subtitle
-    content: >-
-      A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.
-    actions:
-      - label: Subscribe to Podcast
-        url: /thank-you
-        style: primary
-    image_alt: Hero section placeholder image
-    media_position: left
-    media_width: fifty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image_repeat: no-repeat
-    background_image_size: cover
-    background_image_opacity: 20
-    has_border: true
   - type: blog_feed_section
     title: jogos de hoje
     blog_feed_cols: three
