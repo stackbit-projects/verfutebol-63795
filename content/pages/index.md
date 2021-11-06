@@ -21,37 +21,6 @@ sections:
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
-  - type: grid_section
-    title: Subscribe
-    grid_items:
-      - title: Overcast
-        title_align: center
-        content_align: center
-        actions:
-          - label: Subscribe
-            url: /thank-you
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
-        image: images/icon-3.svg
-        image_alt: Overcast icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
-    grid_cols: three
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    enable_cards: false
-    align: center
-    padding_top: large
-    padding_bottom: large
-    has_border: true
-    background_color: secondary
-    background_image_repeat: no-repeat
-    background_image_size: cover
-    background_image_opacity: 10
 seo:
   title: Stackbit Podcaster Theme
   description: The preview of the Podcaster theme
